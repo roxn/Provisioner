@@ -56,13 +56,13 @@
           "ext_b_2.json"
         ]
       },
-	  {
+      {
         "model": "GXP2160",
         "lines": "6",
         "id": "11",
         "template_data": [
           "template_data.json",
-          "keys.json",
+          "keys_gxp2160.json",
           "ext_b_1.json",
           "ext_b_2.json"
         ]
